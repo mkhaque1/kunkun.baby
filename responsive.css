@@ -1,0 +1,105 @@
+@media (max-width: 575.98px) {
+    .active{
+        background-color: #FDC300 !important;;
+     }
+     .menu li a{
+      text-align: center;
+      padding: 10px;
+      margin: 0;
+      
+    }
+    .menu li a:hover{
+        padding: 10px;
+        margin: 0;
+    }
+    .logo {
+        width: 50% !important;
+    }
+    .main-text{
+        font-size: 75px;
+    }
+    .sec-text {
+        font-size: 20px;
+    }
+    .text2 h5{
+        font-size: 15px;
+    }
+    .icon-set img {
+        width: 42px !important;
+        height: 42px !important;
+        margin-right: 21px;
+    }
+    .right-img {
+        margin-left: 59px;
+        width: 70%;
+    }
+    .item1 {
+        width: 188px;
+    }
+    .right3 {
+         padding-left: 0px;
+    }
+    .left-sec h1 {
+        font-size: 75px;
+    }
+    .left-sec p {
+        font-size: 20px;
+    }
+    .right-sec p {
+        font-size: 20px;
+    }
+    .right-sec {
+         margin-top: 0px;
+         margin-bottom: 0px;
+        }
+    .sec4-top p {
+        font-weight: bold;
+        font-size: 14px;
+    }   
+    .part1 {
+            position: relative;
+            padding-top: 0px; 
+    }    
+    .circle2 {
+       
+        bottom: 156px;
+    }
+    .circle3 {
+        bottom: 222px;
+    }
+    .part3 {
+        padding-top: 83px;
+    }
+    .circle4 {
+        bottom: 668px;
+    }
+    .head {
+        font-size: 65px !important;
+    }
+    .left3 .img1 {
+        right: 11%;
+        z-index: -1;
+    }
+    .sec4-top h1 {
+        font-size: 65px;
+    }
+    .sec6-top h1 {
+        font-size: 37px;
+    }
+    .circle5 {
+        top: 12%;
+        right: 1%;
+        z-index: -1;
+    }
+    .text-fotter p {
+         padding-top: 0px;
+        font-weight: bold;
+    }
+    .img-box img{
+        width: 30%;
+    }
+    .double-img {
+       
+        right: 56%;
+    }
+}
